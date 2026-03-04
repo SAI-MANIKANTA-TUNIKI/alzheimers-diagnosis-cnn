@@ -1,0 +1,33 @@
+
+# ================== IGNORE LARGE / UNNECESSARY FOLDERS ==================
+data/
+venv310/
+venv/
+env/
+.venv/
+
+# ================== Python cache & temp files ==================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# ================== OS & IDE files ==================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ================== Logs & outputs ==================
+*.log
+*.out
+
+# ================== Streamlit cache ==================
+.streamlit/
+# ================== Model Weights ==================
+*.h5
+*.keras
