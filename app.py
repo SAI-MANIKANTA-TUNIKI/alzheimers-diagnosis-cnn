@@ -137,4 +137,4 @@ streamlit run app.py  # REAL diagnosis!
 
 # FOOTER
 st.markdown("---")
-st.markdown("*© SAI MANIKANTA TUNIKI | B.Tech ECE Major Project 2026 | Enhanced LeNet CNN*")
+st.markdown("*© SAI MANIKANTA TUNIKI | B.Tech CSE [AI & ML] Major Project 2026 | Enhanced LeNet CNN*")
